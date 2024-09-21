@@ -1,0 +1,19 @@
+{
+  "name": "lootshuffle",
+  "version": "1.0.0",
+  "description": "A simple electron application to create Loot Tables & choose a set of random loot",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baxd99/LootShuffle.git"
+  },
+  "author": "Baxd99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baxd99/LootShuffle/issues"
+  },
+  "homepage": "https://github.com/Baxd99/LootShuffle#readme"
+}
